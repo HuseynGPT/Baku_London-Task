@@ -1,0 +1,17 @@
+C:\Users\Administrator\source\repos\Baku_London\Baku_London\bin\Debug\net6.0-windows\Baku_London.exe
+C:\Users\Administrator\source\repos\Baku_London\Baku_London\bin\Debug\net6.0-windows\Baku_London.deps.json
+C:\Users\Administrator\source\repos\Baku_London\Baku_London\bin\Debug\net6.0-windows\Baku_London.runtimeconfig.json
+C:\Users\Administrator\source\repos\Baku_London\Baku_London\bin\Debug\net6.0-windows\Baku_London.dll
+C:\Users\Administrator\source\repos\Baku_London\Baku_London\bin\Debug\net6.0-windows\Baku_London.pdb
+C:\Users\Administrator\source\repos\Baku_London\Baku_London\obj\Debug\net6.0-windows\Baku_London.Form1.resources
+C:\Users\Administrator\source\repos\Baku_London\Baku_London\obj\Debug\net6.0-windows\Baku_London.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Baku_London\Baku_London\obj\Debug\net6.0-windows\Baku_London.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Baku_London\Baku_London\obj\Debug\net6.0-windows\Baku_London.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Baku_London\Baku_London\obj\Debug\net6.0-windows\Baku_London.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Baku_London\Baku_London\obj\Debug\net6.0-windows\Baku_London.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Baku_London\Baku_London\obj\Debug\net6.0-windows\Baku_London.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Baku_London\Baku_London\obj\Debug\net6.0-windows\Baku_London.dll
+C:\Users\Administrator\source\repos\Baku_London\Baku_London\obj\Debug\net6.0-windows\refint\Baku_London.dll
+C:\Users\Administrator\source\repos\Baku_London\Baku_London\obj\Debug\net6.0-windows\Baku_London.pdb
+C:\Users\Administrator\source\repos\Baku_London\Baku_London\obj\Debug\net6.0-windows\Baku_London.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Baku_London\Baku_London\obj\Debug\net6.0-windows\ref\Baku_London.dll
